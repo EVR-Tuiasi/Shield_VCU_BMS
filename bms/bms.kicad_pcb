@@ -224,7 +224,7 @@
 	(footprint "Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "0c817744-2cd6-416a-805b-9eaf6a1f013d")
-		(at 150.5 82.1 180)
+		(at 149 81.4 180)
 		(descr "JST EH series connector, B8B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Conn_Thermistors_3"
@@ -644,7 +644,7 @@
 	(footprint "Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "112bd6bb-93ec-423b-b5a9-a300d456546a")
-		(at 150.5 57.05 180)
+		(at 149 56.35 180)
 		(descr "JST EH series connector, B8B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Conn_Thermistors_6"
@@ -1384,7 +1384,7 @@
 	(footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "2131059e-7507-4925-a142-0e8b71f6ff2a")
-		(at 135.5 108 180)
+		(at 129 108 180)
 		(descr "JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Soft_G_B3-4"
@@ -1691,7 +1691,7 @@
 			(uuid "581d4697-5631-4add-a3b8-93b654013004")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 1.5 0)
+			(at -8.5 0.5 0)
 			(layer "F.Fab")
 			(uuid "5b097ae4-fb31-4e9c-ad3a-a6d58409fc80")
 			(effects
@@ -1740,7 +1740,7 @@
 	(footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "21aeb92c-f8a7-4f68-a0e4-9ff2db5d228a")
-		(at 85 137 180)
+		(at 152.5 121 180)
 		(descr "JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Soft_G_B13-14"
@@ -2047,7 +2047,7 @@
 			(uuid "4581648b-9f3e-49e3-b6bd-4bce5195b65a")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 1.5 0)
+			(at -9.5 0 0)
 			(layer "F.Fab")
 			(uuid "245648e5-78ef-4733-8cf5-76b09995110f")
 			(effects
@@ -2096,7 +2096,7 @@
 	(footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "2b07f2e7-6244-4901-8f10-dd6a4a25d794")
-		(at 85 102 180)
+		(at 152.5 128 180)
 		(descr "JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Soft_G_B15-16"
@@ -2403,7 +2403,7 @@
 			(uuid "2f0de8a6-bbd4-4297-8eab-ebddfc135220")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 1.5 0)
+			(at -9.5 0 0)
 			(layer "F.Fab")
 			(uuid "225a6788-b6b8-45e0-87c0-7f985f4948ed")
 			(effects
@@ -2794,7 +2794,7 @@
 	(footprint "Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "423c92d0-5fb8-45a6-8df9-4d5b4003545e")
-		(at 150.5 73.75 180)
+		(at 149 73.05 180)
 		(descr "JST EH series connector, B8B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Conn_Thermistors_4"
@@ -3512,7 +3512,7 @@
 	(footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "52c11fef-49e2-4b95-a382-54e396012d1c")
-		(at 135.5 101 180)
+		(at 129 101 180)
 		(descr "JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Soft_G_B1-2"
@@ -3819,7 +3819,7 @@
 			(uuid "d905863b-0377-4e44-9d39-2fdb6f298e70")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 1.5 0)
+			(at -8.5 0 0)
 			(layer "F.Fab")
 			(uuid "b9207cff-b043-41dc-a53b-4b84165c3070")
 			(effects
@@ -3868,7 +3868,7 @@
 	(footprint "Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "63009f70-cdaa-4782-93bf-7a03d8c5d1cd")
-		(at 150.5 65.4 180)
+		(at 149 64.7 180)
 		(descr "JST EH series connector, B8B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Conn_Thermistors_5"
@@ -4288,7 +4288,7 @@
 	(footprint "Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "6901cf3f-a355-4e37-942c-850af55039f2")
-		(at 150.5 48.7 180)
+		(at 149 48 180)
 		(descr "JST EH series connector, B8B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Conn_Thermistors_7"
@@ -5064,7 +5064,7 @@
 	(footprint "Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "88f8bf4d-c3d6-4f63-a881-4e35efa75e2a")
-		(at 150.5 90.45 180)
+		(at 149 89.75 180)
 		(descr "JST EH series connector, B8B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Conn_Thermistors_2"
@@ -5782,7 +5782,7 @@
 	(footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a1d6f428-bb01-4d02-bcc4-c310b6712afe")
-		(at 85 109 180)
+		(at 129 128 180)
 		(descr "JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Soft_G_B11-12"
@@ -6089,7 +6089,7 @@
 			(uuid "ca971e7e-593b-4391-81e8-c895a3b2d5a8")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 1.5 0)
+			(at -9.5 0 0)
 			(layer "F.Fab")
 			(uuid "02e617f3-a6e4-44e5-87b4-613af1dff6c4")
 			(effects
@@ -6138,7 +6138,7 @@
 	(footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a3bd8851-3412-46d6-aab6-164dba716763")
-		(at 85 116 180)
+		(at 129 121 180)
 		(descr "JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Soft_G_B9-10"
@@ -6445,7 +6445,7 @@
 			(uuid "3effeb2c-a3d1-4c3e-b0e6-fc9150d291df")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 3.8 0)
+			(at -9 0 0)
 			(layer "F.Fab")
 			(uuid "e3e8854a-274d-4837-b44f-95b182790e28")
 			(effects
@@ -6494,7 +6494,7 @@
 	(footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "a629e19d-33f9-4027-8e5a-e9ed832e0b5a")
-		(at 230.5 139.5 180)
+		(at 231.75 140.5 180)
 		(descr "JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Vdd1"
@@ -6850,7 +6850,7 @@
 	(footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "b4ba7bc9-ccfc-4877-8d8a-af8e9b93fa84")
-		(at 85 95 180)
+		(at 152.5 108 180)
 		(descr "JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Soft_G_B7-8"
@@ -7157,7 +7157,7 @@
 			(uuid "40f02616-9c63-4899-8567-d43580ccbde6")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 3.8 0)
+			(at -8.5 0 0)
 			(layer "F.Fab")
 			(uuid "2ce4c71e-a399-4199-9824-387d978c25c8")
 			(effects
@@ -7206,7 +7206,7 @@
 	(footprint "Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "cad3c0f2-aed7-43bb-a49a-dc4e5a9b9662")
-		(at 150.5 32 180)
+		(at 149 31.3 180)
 		(descr "JST EH series connector, B8B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Conn_Thermistors_1"
@@ -7626,7 +7626,7 @@
 	(footprint "Connector_JST:JST_EH_B2B-EH-A_1x02_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "cece4e25-2a15-4524-b512-75e51477b7b6")
-		(at 165.5 28.5 180)
+		(at 152.5 101 180)
 		(descr "JST EH series connector, B2B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Soft_G_B5-6"
@@ -7933,7 +7933,7 @@
 			(uuid "9fdc6b98-eed5-4f5b-bb1d-eb8d284fda97")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 1.25 1.5 0)
+			(at -8.5 0 0)
 			(layer "F.Fab")
 			(uuid "bdd771e5-c325-4779-baff-dc3df3e9ffe3")
 			(effects
@@ -7982,7 +7982,7 @@
 	(footprint "Connector_JST:JST_EH_B8B-EH-A_1x08_P2.50mm_Vertical"
 		(layer "F.Cu")
 		(uuid "e637c2a9-3efa-4150-b4da-73c3752b2db3")
-		(at 150.5 40.35 180)
+		(at 149 39.65 180)
 		(descr "JST EH series connector, B8B-EH-A (http://www.jst-mfg.com/product/pdf/eng/eEH.pdf), generated with kicad-footprint-generator")
 		(tags "connector JST EH vertical")
 		(property "Reference" "Conn_Thermistors_8"
@@ -25203,7 +25203,7 @@
 		(uuid "ffdff52e-3a4b-494b-a5bd-086c7efa677b")
 	)
 	(gr_rect
-		(start 122.5 20.5)
+		(start 114 20.5)
 		(end 248 145.5)
 		(stroke
 			(width 0.1)
@@ -25214,100 +25214,92 @@
 		(uuid "3cb9c117-f956-4d29-a3a0-616c1c8ff24a")
 	)
 	(segment
-		(start 138 32)
-		(end 138 90.45)
+		(start 136.5 31.3)
+		(end 136.5 89.75)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 19)
 		(uuid "12fd4ee0-f56e-4338-a2e1-d069b1cf3432")
 	)
 	(segment
-		(start 150.5 32)
-		(end 150.5 40.35)
+		(start 149 31.3)
+		(end 149 39.65)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 20)
 		(uuid "0b80884f-1b76-46db-b2d9-8787a702a64f")
 	)
 	(segment
-		(start 150.5 57.05)
-		(end 150.5 90.45)
+		(start 149 56.35)
+		(end 149 89.75)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 20)
 		(uuid "6b4f5943-1cdf-4e7d-9a9e-ebf614f9c6aa")
 	)
 	(segment
-		(start 150.5 48.7)
-		(end 150.5 57.05)
+		(start 149 48)
+		(end 149 56.35)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 20)
 		(uuid "91365945-cef3-45a2-ab46-1d0d276c0d57")
 	)
 	(segment
-		(start 150.5 40.35)
-		(end 150.5 48.7)
+		(start 149 39.65)
+		(end 149 48)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 20)
 		(uuid "aa0b8707-ec20-4130-9b6b-816f725d7d78")
 	)
 	(segment
-		(start 148 32)
-		(end 148 90.45)
+		(start 146.5 31.3)
+		(end 146.5 89.75)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 21)
 		(uuid "f2992e4d-bf63-4155-935b-f706cd9e9c4a")
 	)
 	(segment
-		(start 145.5 90.45)
-		(end 145.5 32)
+		(start 144 89.75)
+		(end 144 31.3)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 22)
 		(uuid "eb97abe3-4660-4084-9c07-720b214bb0d4")
 	)
 	(segment
-		(start 140.5 90.45)
-		(end 140.5 32)
+		(start 139 89.75)
+		(end 139 31.3)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 23)
 		(uuid "e673f7b5-4c3c-4aea-a50e-c1f28aabf15d")
 	)
 	(segment
-		(start 143 32)
-		(end 143 90.45)
+		(start 141.5 31.3)
+		(end 141.5 89.75)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 24)
 		(uuid "4222b096-f7af-4eac-9fc6-4e7433a4eceb")
 	)
 	(segment
-		(start 135.5 32)
-		(end 135.5 90.45)
+		(start 134 31.3)
+		(end 134 89.75)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 25)
 		(uuid "ce706697-0c11-4fd5-a2f5-7bb30dc66e21")
 	)
 	(segment
-		(start 133 32)
-		(end 133 90.45)
+		(start 131.5 31.3)
+		(end 131.5 89.75)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 26)
 		(uuid "6f54a52f-9fe2-4871-8c81-89ea53a3d75c")
-	)
-	(segment
-		(start 214.0313 117.38)
-		(end 213.6013 116.95)
-		(width 0.2)
-		(layer "B.Cu")
-		(net 109)
-		(uuid "3ffccdaf-794d-46f3-8bf5-993d254a80b0")
 	)
 	(group ""
 		(uuid "9436e793-7a79-47be-b0c1-980e7d07fad8")

@@ -3069,7 +3069,7 @@
 	)
 	(text "K312-mini\n"
 		(exclude_from_sim no)
-		(at 124.968 58.674 0)
+		(at 126.746 58.674 0)
 		(effects
 			(font
 				(face "KiCad Font")
