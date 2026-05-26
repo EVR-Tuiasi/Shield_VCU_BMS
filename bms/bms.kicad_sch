@@ -4,6 +4,11 @@
 	(generator_version "10.0")
 	(uuid "b14769bd-3c3f-44d2-b43c-908a4e8fc6f9")
 	(paper "A4")
+	(title_block
+		(title "Shield VCU - BMS")
+		(date "2026-05-26")
+		(rev "Viorel Stoica")
+	)
 	(lib_symbols
 		(symbol "Connector:Conn_01x02_Pin"
 			(pin_names
