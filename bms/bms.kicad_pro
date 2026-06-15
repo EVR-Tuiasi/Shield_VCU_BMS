@@ -677,7 +677,7 @@
         "uuid": "b14769bd-3c3f-44d2-b43c-908a4e8fc6f9"
       }
     ],
-    "used_designators": "",
+    "used_designators": "CAN_Bus_VCU2,D14,#PWR52-53,R54",
     "variants": []
   },
   "sheets": [
